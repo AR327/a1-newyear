@@ -54,3 +54,40 @@ main {
 
     margin: 16px;
 }
+
+.r2 {
+
+    text-align: center;
+    padding-top: 150px;
+
+}
+
+.r2textcontent {
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    line-height: normal;
+}
+
+.r2textcontent1 {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.r2textcontent2 {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.r2textcontent3 {
+    color: #070211;
+
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+
+}
