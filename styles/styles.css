@@ -257,8 +257,8 @@ main {
 }
 
 .r5content1 {
-    margin-top: 10px;
-    margin-left: 10px;
+    padding-top: 100px;
+    /* margin-left: 10px; */
 }
 
 .r5textcontent1 {
@@ -272,7 +272,7 @@ main {
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-    margin-bottom: 16px;
+
 
 
 
@@ -286,7 +286,7 @@ main {
     font-weight: 900;
     line-height: normal;
     text-transform: capitalize;
-    margin-bottom: 15px;
+    margin: 10px 0px 22px 0px
 }
 
 .r5para1 {
