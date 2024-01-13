@@ -195,10 +195,11 @@ main {
     flex-shrink: 0;
     border-radius: 10px;
 
+
 }
 
 .r4content {
-    display: inline;
+
     text-align: center;
     font-family: Inter;
     font-size: 32px;
@@ -206,11 +207,11 @@ main {
     font-weight: 600;
     line-height: 15px;
     text-transform: capitalize;
-    max-width: 549px;
-    max-height: 168px;
     color: #070211;
     padding-top: 100px;
-    margin-left: 400px;
+
+
+    ;
 
 }
 
@@ -236,4 +237,107 @@ main {
     text-transform: uppercase;
 }
 
-/*slight error */
+.r5 {
+    margin-top: 100px;
+    display: flex;
+    width: 1320px;
+    height: 482px;
+
+}
+
+.backgroundimage {
+    width: 354.844px;
+    height: 354.844px;
+    flex-shrink: 0;
+    border-radius: 364.844px;
+    background: url(../images/Ellipse\ 1.png), lightgray -91.279px 0px / 0.038% 10% no-repeat;
+
+    margin: 25px;
+
+}
+
+.r5content1 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.r5textcontent1 {
+    width: 207px;
+    height: 29px;
+    display: inline;
+    color: #F00;
+    /* text-align: center; */
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 16px;
+
+
+
+}
+
+.r5textcontent2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+
+.r5para1 {
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.r5imagecontent1border {
+    margin-left: 80px;
+    border-radius: 364.844px;
+    border: 15px solid #F00;
+    width: 400px;
+    height: 400px;
+    flex-shrink: 0;
+
+}
+
+.r5content2 {
+    margin-left: 150px;
+}
+
+.r5textcontent3 {
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0;
+}
+
+.r5para2 {
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 43px;
+}
+
+.r5imagecontent2 {
+    width: 140px;
+    height: 140px;
+
+}
