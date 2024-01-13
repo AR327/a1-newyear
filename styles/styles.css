@@ -417,3 +417,19 @@ main {
     width: 500px;
     margin-left: 35px;
 }
+
+.leftColumn {
+    height: 662px;
+    width: 1320px;
+}
+
+.redGround {
+    background: url("../images/Rectangle\ 2.png");
+    height: 229px;
+    width: 1320px;
+}
+
+.giftBox {
+    position: relative;
+    top: -420px;
+}
